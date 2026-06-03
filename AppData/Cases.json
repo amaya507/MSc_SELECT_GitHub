@@ -1,0 +1,56 @@
+[
+  {
+    "CaseId": 2,
+    "CreatedOn": "2026-06-02 12:07",
+    "Description": "",
+    "EditedOn": "2026-06-02 12:07",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.4",
+    "Name": "Baseline",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-1",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 3,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 2,
+    "ScenarioGroup": "AllScenario",
+    "ScenarioGroupId": 1,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "rigoa",
+    "ModelFramework": "Times"
+  }
+]

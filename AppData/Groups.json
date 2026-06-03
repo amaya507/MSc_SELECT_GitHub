@@ -1,0 +1,29 @@
+[
+  {
+    "SavedGroupId": 2,
+    "GroupName": "AllRegion",
+    "GroupType": "Region",
+    "Settings": "[\"NL\"]",
+    "CreatedOn": "2026-06-02 11:56",
+    "DisplayCreatedOn": "2026-06-02 11:56",
+    "UserName": "rigoa"
+  },
+  {
+    "SavedGroupId": 1,
+    "GroupName": "AllScenario",
+    "GroupType": "Scenario",
+    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"B\", \"FileStatus\": \"Consistent\", \"RecordCount\": 46}, {\"Name\": \"B-NEWTECHS_PP\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 137}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"SS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 235}, {\"Name\": \"AF_SOLAR\", \"Checked\": true, \"RowOrder\": 4, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 3136}, {\"Name\": \"AF_WIND_OFF\", \"Checked\": true, \"RowOrder\": 5, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 3136}, {\"Name\": \"AF_WIND_ON\", \"Checked\": true, \"RowOrder\": 6, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 3136}, {\"Name\": \"COM_FR_ELE\", \"Checked\": true, \"RowOrder\": 7, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1568}, {\"Name\": \"ELC_IMP\", \"Checked\": true, \"RowOrder\": 8, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 6}, {\"Name\": \"LIMIT_CO2\", \"Checked\": true, \"RowOrder\": 9, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 6}, {\"Name\": \"RES_SHARE_50%_24_7\", \"Checked\": true, \"RowOrder\": 10, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1}, {\"Name\": \"RES_SHARE_50%_ANNUAL\", \"Checked\": true, \"RowOrder\": 11, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 9}, {\"Name\": \"RES_SHARE_90%_24_7\", \"Checked\": true, \"RowOrder\": 12, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1}, {\"Name\": \"SUBSIDY_INV\", \"Checked\": true, \"RowOrder\": 13, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 7}, {\"Name\": \"SUBSIDY_RES_CONS\", \"Checked\": true, \"RowOrder\": 14, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 3}, {\"Name\": \"TAX_CO2\", \"Checked\": true, \"RowOrder\": 15, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 5}, {\"Name\": \"WIND_CAP\", \"Checked\": true, \"RowOrder\": 16, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 15}]",
+    "CreatedOn": "2026-06-02 11:56",
+    "DisplayCreatedOn": "2026-06-02 11:56",
+    "UserName": "rigoa"
+  },
+  {
+    "SavedGroupId": 3,
+    "GroupName": "DefaultProperties",
+    "GroupType": "Properties",
+    "Settings": "{\"OptCa\": null, \"OptCr\": null, \"Damage\": 2, \"LimCol\": 0, \"LimRow\": 0, \"Oblong\": true, \"ResLim\": 50000, \"Retire\": false, \"IterLim\": 999999, \"SolPrint\": false, \"Uncertainty\": 0, \"RunInStepsOf\": 0, \"ClimateModule\": false, \"LinearVarCost\": true, \"LevelizedCosts\": 3, \"GamsOptionBratio\": \"\", \"DiscreteInvestment\": 0, \"DoExtendedQaChecks\": false, \"GeneralEquilibrium\": 3, \"MidYearDiscounting\": true, \"ObjFunctionVariant\": 0, \"ShiftDiscountingBy\": 0, \"Co2CalibrationAtBoh\": false, \"UseSlackVariablesInUc\": false, \"DiscreteUnitCommitment\": false, \"EndoGenousTechLearning\": false, \"WriteBPriceforElastDem\": false, \"SaveSolutionInformation\": false, \"TsForFlowReportingTypes\": 0, \"UseLastRunAsStartingPoint\": false, \"ActivateSensitivityAnalysis\": false}",
+    "CreatedOn": "2026-06-02 11:56",
+    "DisplayCreatedOn": "2026-06-02 11:56",
+    "UserName": "rigoa"
+  }
+]
